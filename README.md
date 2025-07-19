@@ -34,8 +34,8 @@ This project aims to predict whether a news article is **fake or real** using va
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/kalaiselvimurugan/fake-news-detection.git
-   cd fake-news-detection
+   git clone https://github.com/kalaiselvimurugan/Fake-News-prediction.git
+   cd Fake-News-prediction
    ```
    
 2. **Create and Activate a Virtual Environment (optional but recommended)**
