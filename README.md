@@ -56,7 +56,7 @@ This project aims to predict whether a news article is **fake or real** using va
    
 5. **Run the Notebook**
    ```bash
-   Open notebooks/FakeNewsDetection.ipynb and run the cells step-by-step.
+   Open notebooks/Fake_news_prediction_code.ipynb and run the cells step-by-step.
    ```
 
 ## 🔁 Model Workflow
